@@ -1,0 +1,13 @@
+# Project exclude paths
+/configserver/target/
+/consumer/target/
+/eurekaServer/target/
+/feign/target/
+/gateway/target/
+/hystrix/target/
+/nativeconfigclient/target/
+/nativeconfigserver/target/
+/provider/target/
+/Ribbon/target/
+/zipkin/target/
+/zipkinclient/target/
